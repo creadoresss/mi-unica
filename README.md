@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>mi unica 内衣公司</title>
+    <title>mi unica Lingerie</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -33,7 +33,7 @@
             background-color: #575757;
         }
         .hero {
-            background-image: url('logo_image_url_here'); /* 在这里插入Logo图片的URL */
+            background-image: url('logo_image_url_here'); /* Insert the URL of your logo image here */
             background-size: cover;
             background-position: center;
             height: 400px;
@@ -92,38 +92,38 @@
 <body>
 
     <header>
-        <h1>mi unica 内衣公司</h1>
+        <h1>mi unica Lingerie</h1>
     </header>
 
     <nav>
-        <a href="#home">首页</a>
-        <a href="#products">产品</a>
-        <a href="#about">关于我们</a>
-        <a href="#contact">联系我们</a>
+        <a href="#home">Home</a>
+        <a href="#products">Products</a>
+        <a href="#about">About Us</a>
+        <a href="#contact">Contact</a>
     </nav>
 
     <section class="hero">
-        <h1>欢迎来到 mi unica</h1>
+        <h1>Welcome to mi unica</h1>
     </section>
 
     <section class="products" id="products">
         <div class="product">
-            <img src="https://example.com/product1.jpg" alt="产品1">
-            <h3>内衣系列1</h3>
-            <p>柔软舒适，完美贴合。</p>
+            <img src="https://example.com/product1.jpg" alt="Product 1">
+            <h3>Lingerie Series 1</h3>
+            <p>Soft, comfortable, and perfectly fitted.</p>
         </div>
         <div class="product">
-            <img src="https://example.com/product2.jpg" alt="产品2">
-            <h3>内衣系列2</h3>
-            <p>设计时尚，质量优异。</p>
+            <img src="https://example.com/product2.jpg" alt="Product 2">
+            <h3>Lingerie Series 2</h3>
+            <p>Fashionable design, superior quality.</p>
         </div>
     </section>
 
     <footer>
-        <p>&copy; 2024 mi unica 内衣公司. 版权所有。</p>
+        <p>&copy; 2024 mi unica Lingerie. All rights reserved.</p>
         <div class="contact-info">
-            <p>电话: 937786553</p>
-            <p>邮箱: <a href="mailto:xu23355@gmail.com">xu23355@gmail.com</a></p>
+            <p>Phone: 937786553</p>
+            <p>Email: <a href="mailto:xu23355@gmail.com">xu23355@gmail.com</a></p>
         </div>
     </footer>
 
